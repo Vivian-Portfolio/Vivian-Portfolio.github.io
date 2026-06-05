@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Vivian Okwara - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -6,7 +6,7 @@ Welcome! This repository contains the complete template for a professional, one-
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
-- Data modeling and analysis
+- Data analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
@@ -15,10 +15,12 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*Cleaned and transformed academic application data using Google Sheets.Conducted exploratory data analysis to identify application patterns, role demand, applicants behaviour, payment status and trends insights. Built an interactive dashboard with Pivot Tables and charts that highlighted key metrics such as total applications, repeat applicants, most popular roles and payment preformance.
+Tools:Google Sheets, Pivot Tables Pivot Charts, Data Cleaning, Data Visualization, EDA.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*Cleaned sales data in Excel and built an interactive Power BI dashboard to analyze revenue, profit, sales, customer trends, and product performance. Used KPIs and demographic filters to uncover insights and support data-driven decision-making.
+Tools: Excel, Power BI, Data Cleaning, Data Visualization, KPI Reporting.*
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
