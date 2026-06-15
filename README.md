@@ -14,9 +14,9 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*Cleaned and transformed academic application data using Google Sheets.Conducted exploratory data analysis to identify application patterns, role demand, applicants behaviour, payment status and trends insights. Built an interactive dashboard with Pivot Tables and charts that highlighted key metrics such as total applications, repeat applicants, most popular roles and payment preformance.
-Tools:Google Sheets, Pivot Tables Pivot Charts, Data Cleaning, Data Visualization, EDA.*
+### Application Tracking Insights (Google Sheets EDA)
+*Cleaned and transformed Tech Programme application data using Google Sheets.Conducted exploratory data analysis to identify application patterns, roles demand, applicants behaviour, payment status and trends insights. Built an interactive dashboard with Pivot Tables and charts that highlighted key metrics such as total applications, repeat applicants, most popular roles and payment preformance.
+Tools:Google Sheets, Pivot Tables, Pivot Charts, Data Cleaning, Data Visualization, EDA.*
 
 ### Project Title Two
 *Cleaned sales data in Excel and built an interactive Power BI dashboard to analyze revenue, profit, sales, customer trends, and product performance. Used KPIs and demographic filters to uncover insights and support data-driven decision-making.
