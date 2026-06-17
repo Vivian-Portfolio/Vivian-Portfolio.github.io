@@ -1,16 +1,6 @@
 # Vivian Okwara - Data Analysis Portfolio
 
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
-
 ## 🚀 Projects
-
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Application Tracking Insights (Google Sheets EDA)
 *Cleaned and transformed Tech Programme application data using Google Sheets.Conducted exploratory data analysis to identify application patterns, roles demand, applicants behaviour, payment status and trends insights. Built an interactive dashboard with Pivot Tables and charts that highlighted key metrics such as total applications, repeat applicants, most popular roles and payment preformance.
