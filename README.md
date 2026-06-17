@@ -21,8 +21,6 @@ Tools: MySQL, Aggregate Functions (AVG Count), Group By, Order By, Date Function
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
-
 - **Data Visualization**: Power BI.
 - **Data Analysis**: SQL, Google Sheet, Excel.
 
