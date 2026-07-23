@@ -22,5 +22,5 @@ Tools: MySQL, Aggregate Functions (AVG Count), Group By, Order By, Date Function
 ## 🛠️ Skills
 
 - **Data Visualization**: Power BI.
-- **Data Analysis**: SQL, Google Sheet, Excel.
+- **Data Analysis**: SQL, Google Sheet, Excel, Python.
 
